@@ -13,6 +13,8 @@ I'm a post-ironic jerk, musician, producer, beatmaker, former poet, and a DevOps
 
 ### DevOps
 
+> If you're hiring, you can check my CV here: https://s3.badhouseplants.net/public-download/n.rodionov.pdf
+
 Since you've found me here, I guess you might wanna read about me as an engineer, so bet it.
 
 As an engineer, I love working with `Kubernetes`, but not with the `yaml` hell. And I don't mind writing a lot of `yaml` files once, not to do it regular later. 
