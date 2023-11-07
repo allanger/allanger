@@ -43,7 +43,7 @@ If you need a beat, currently, I don't mind handing out exclusive licences for f
 ---
 
 
-If you wanna talk, feel free write in [telegram](https://t.me), or find me on [twitter](https://twitter.com/_allanger) or [mastodon](https://mastodon.social/@allanger)
+If you wanna talk, feel free write in [telegram](https://t.me/allanger), or find me on [twitter](https://twitter.com/_allanger) or [mastodon](https://mastodon.social/@allanger)
 
 Thanks,
 
