@@ -1,6 +1,5 @@
 # allanger
 
-- telegram: https://t.me/allanger
 - github: https://github.com/allanger
 - mastodon: https://mastodon.social/@allanger
 - email: allanger@badhouseplants.net
@@ -42,8 +41,6 @@ If you need a beat, currently, I don't mind handing out exclusive licences for f
 
 ---
 
-
-If you wanna talk, feel free write in [telegram](https://t.me/allanger), or find me on [twitter](https://twitter.com/_allanger) or [mastodon](https://mastodon.social/@allanger)
 
 Thanks,
 
