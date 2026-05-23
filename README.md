@@ -2,7 +2,7 @@
 
 - github: https://github.com/allanger
 - gitea: https://gitea.badhouseplants.net/allanger
-- email: iam@allanger.xyz
+- email: allanger@posteo.com
 - liberapay: https://liberapay.com/allanger
 
 ## About me
